@@ -1,3 +1,6 @@
+from ultralytics import YOLO
+
+
 #TODO: Load models
     
 
