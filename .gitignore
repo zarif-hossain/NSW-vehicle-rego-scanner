@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+#ignore mp4 files in dashcam_footage folder
+dashcam_footage/video1.mp4
