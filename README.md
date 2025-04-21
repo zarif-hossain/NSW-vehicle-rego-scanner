@@ -6,6 +6,12 @@ Run the following commands to install the neccessary libraries:
 pip install ultralytics
 pip install selenium
 ```
+
+Ran into some errors when importing Ultralytics.
+Ensure you have a clean installation of Ultralytics by using the following command:
+```
+python -m pip install --upgrade --force-reinstall ultralytics
+```
 ### Development Process:
 
 #### Web Bot:

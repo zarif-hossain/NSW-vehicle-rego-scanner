@@ -1,0 +1,8 @@
+path: C:\Users\zarif\Desktop\NSW-vehicle-rego-scanner\data
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: car
+  1: licence_plate

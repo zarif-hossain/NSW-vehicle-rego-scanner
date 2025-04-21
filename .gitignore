@@ -1,2 +1,8 @@
 #ignore mp4 files in dashcam_footage folder
 dashcam_footage/video1.mp4
+
+# Ignore train cache files
+data/labels/*.cache
+
+# Ignore Ultralytics runs
+plate_recognition/runs
