@@ -38,4 +38,13 @@ python -m pip install --upgrade --force-reinstall ultralytics
             1) car
             2) rego_plate
 
-    4) 
+    4) plate_recognition\config.yaml is the configuration file used when training the model
+        - NB: can directly run on CLI
+        ```
+        cd plate_recognition
+        yolo detect train data=config.yaml model="yolov8n.yaml" epochs=1
+        ```
+
+    5) 
+    
+    
